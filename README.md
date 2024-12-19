@@ -14,6 +14,3 @@ Explore the famous Titanic dataset to predict passenger survival. This project c
 
 Analyze sales data and build a predictive model to forecast future sales. This project focuses on handling time-series data, visualization, and regression modeling.
 
-Each project is self-contained with its own dataset and code files.
-
-Feel free to explore and modify the projects to deepen your understanding of data science concepts!
