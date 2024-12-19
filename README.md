@@ -1,4 +1,4 @@
-# Data Science Projects
+# # Data Science Projects
 
 This repository contains several beginner-friendly data science projects that demonstrate the use of Python for data analysis, machine learning, and predictive modeling. Below is a brief overview of each project:
 
